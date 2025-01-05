@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+}
+
+img{
+    border: 2px solid green;
+    margin: 20px ;
+    box-shadow: 10px 10px 5px rgb(173, 172, 172);
+}
